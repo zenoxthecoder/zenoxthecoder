@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm zenoxthecoder</h1>
 <h3 align="center">A passionate discord bot developer with a goal to help people achieve their dreams.</h3>
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRg4R1IHYzft0ONyq7-iYv53pxjf1hP6Y8g&s
-
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRg4R1IHYzft0ONyq7-iYv53pxjf1hP6Y8g&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenoxthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="zenoxthecoder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenoxthecoder" alt="zenoxthecoder" /></a> </p>
